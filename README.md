@@ -124,4 +124,23 @@
   <div class="card">
     <!-- Avatar si lo tenés, si no dejá este div vacío o pon otra imagen -->
     <div class="avatar">
-      <
+      <img src="https://linktr.ee/segundo.mundo/avatar-placeholder.jpg" alt="Segundo Mundo">
+    </div>
+    <h1>Klezmer</h1>
+    <p class="bio">Fiestas inolvidables / Orquesta Segundo Mundo</p>
+
+    <div class="links">
+      <a href="https://api.whatsapp.com/send?phone=TU_NUMERO" target="_blank" rel="noopener">Contactanos por WhatsApp</a>
+      <a href="https://youtube.com/channel/EL_CHANNEL" target="_blank" rel="noopener">Video Fiesta</a>
+      <a href="https://linktr.ee/segundo.mundo/videos">Videos</a>
+      <a href="https://spotify.com/algo">Spotify</a>
+    </div>
+
+    <div class="socials">
+      <a href="https://facebook.com/segundomundo" target="_blank" rel="noopener">FB</a>
+      <a href="https://instagram.com/segundomundo" target="_blank" rel="noopener">IG</a>
+      <a href="https://youtube.com/segundomundo" target="_blank" rel="noopener">YT</a>
+    </div>
+  </div>
+</body>
+</html>
