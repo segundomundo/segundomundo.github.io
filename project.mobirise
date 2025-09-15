@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site 2025-09-14 00:02",
+    "name": "Segundo Mundo",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -52,8 +52,8 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "hj8h5a5wek",
-    "imageResize": false,
+    "mbrsiteDomain": "segundomundo",
+    "imageResize": true,
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -63,14 +63,16 @@
     "gdpr": false,
     "uniqCompNum": 28,
     "versionPublish": "6.1.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "google-analytics": "<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1836051147348929');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1836051147348929&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-950845646\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-950845646');\n</script>\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Segundo Mundo - Klezmer",
-        "meta_descr": "Fiestas Inolvidables - Orquesta Segundo Mundo - Bodas, casamientos judíos, cumpleaños, bar y bat mitzbah",
+        "meta_descr": "Orquesta de música klezmer y balcánica con más de 20 años de trayectoria - Tres discos editados - Conciertos - Giras - Festivales internacionales - Eventos - Fiestas inolvidables.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
